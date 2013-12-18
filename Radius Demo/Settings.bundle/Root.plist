@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Title</key>
+			<string>App Root View</string>
+			<key>Key</key>
+			<string>rootViewImage</string>
+			<key>DefaultValue</key>
+			<string>betterhomes</string>
+			<key>Titles</key>
+			<array>
+				<string>Amtrak</string>
+				<string>Radius Farms</string>
+				<string>Better Homes &amp; Gardens</string>
+				<string>Century 21</string>
+				<string>Citi Habitats</string>
+				<string>Coldwell Banker</string>
+				<string>Corcoran</string>
+				<string>ERA</string>
+				<string>HomeFinder</string>
+				<string>Keller Williams</string>
+				<string>realtor.com</string>
+				<string>Radius Realty</string>
+				<string>Redfin</string>
+				<string>RE/MAX</string>
+				<string>Sotheby&apos;s</string>
+				<string>Trulia</string>
+				<string>Zillow</string>
+				<string>AARP</string>
+			</array>
+			<key>Values</key>
+			<array>
+				<string>amtrak</string>
+				<string>radiusfarms</string>
+				<string>betterhomes</string>
+				<string>century21</string>
+				<string>citihabitats</string>
+				<string>coldwellbanker</string>
+				<string>corcoran</string>
+				<string>era</string>
+				<string>homefinder</string>
+				<string>kellerwilliams</string>
+				<string>radiusrealty</string>
+				<string>realtorcom</string>
+				<string>redfin</string>
+				<string>remax</string>
+				<string>sothebys</string>
+				<string>trulia</string>
+				<string>zillow</string>
+				<string>aarp</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

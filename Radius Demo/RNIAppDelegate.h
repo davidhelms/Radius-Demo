@@ -1,15 +1,18 @@
 //
 //  RNIAppDelegate.h
-//  Radius Demo
+//  Deesign
 //
-//  Created by David Helms on 11/11/13.
-//  Copyright (c) 2013 Radius Networks. All rights reserved.
+//  Created by David Helms on 10/30/13.
+//  Copyright (c) 2013 David Helms. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
+#import <ProximityKit/ProximityKit.h>
 
-@interface RNIAppDelegate : UIResponder <UIApplicationDelegate>
+@interface RNIAppDelegate : UIResponder <UIApplicationDelegate, PKManagerDelegate, UIAlertViewDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
+
+- (void)processAction:(NSDictionary *)attributes;
 
 @end
